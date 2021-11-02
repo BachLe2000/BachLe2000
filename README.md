@@ -30,6 +30,11 @@
 
 ---
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 **Listening** on Spotify
 
 <a href="https://bach-le2000.vercel.app/now-playing?open">
