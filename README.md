@@ -18,6 +18,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bachle2000&show_icons=true&theme=dark&locale=en" alt="bachle2000" /></p>
 
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 
 **Listening** on Spotify
 
