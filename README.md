@@ -23,6 +23,9 @@
 ---
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/BachLe2000/BachLe2000/pull/1) in [BachLe2000/BachLe2000](https://github.com/BachLe2000/BachLe2000)
+2. 🎉 Merged PR [#2](https://github.com/BachLe2000/BachLe2000/pull/2) in [BachLe2000/BachLe2000](https://github.com/BachLe2000/BachLe2000)
+<!--END_SECTION:activity-->
 
 
 ---
