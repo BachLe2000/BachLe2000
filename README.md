@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [this github profile :/](https://github.com/BachLe2000?tab=repositories)
 
-- 📫 How to reach me **Discord Bach Le 2 [BACKUP]#0640**
+- 📫 How to reach me **Discord Bach Le 2#0640**
 
 ---
 
