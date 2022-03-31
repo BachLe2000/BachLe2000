@@ -20,11 +20,7 @@
 
 What I'm doing in Discord?
 
-</div>
-<div align="center">
-	<a href="https://discord.com/users/624091967625625610" >  
-  		<img src="https://lanyard-profile-readme.vercel.app/api/624091967625625610"  />  
-	</a> 
+[![Discord Presence](https://lanyard.cnrad.dev/api/624091967625625610)](https://discord.com/users/624091967625625610)
 
 ---
 
