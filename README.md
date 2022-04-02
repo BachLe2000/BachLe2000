@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bachle2000&label=Profile%20views&color=0e75b6&style=flat" alt="bachle2000" /> </p>
 
-- 🔭 I’m currently working on **Discord Bach Bot**
+- 🔭 I’m currently working on **Meow-Bot**
 
 - 🌱 I’m currently learning **Discord.js**
 
