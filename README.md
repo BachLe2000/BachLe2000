@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [this github profile :/](https://github.com/BachLe2000?tab=repositories)
 
-- 📫 How to reach me **「TCC」Bach Wumpus#0713**
+- 📫 How to reach me **Bach Wumpus#0713**
 
 -  🎈 My Website: <https://bachle2000.github.io>
 
